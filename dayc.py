@@ -6,7 +6,7 @@ from telegram.ext import Updater, CommandHandler, Filters
 from handlers import all_handlers
 
 
-updater = Updater("TELEGRAM_BOT_TOKEN")
+updater = Updater("5880650787:AAGmNsyCXXl1sl38IXTX1lWVBfp9a7BiFT4")
 
 for handler in all_handlers:
     if len(handler) == 2:
