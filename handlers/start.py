@@ -10,7 +10,7 @@ def start(update, context):
 __handlers__ = [
     [
         CommandHandler(
-            "alexa",
+            "chatbot",
             start
         )
     ]
