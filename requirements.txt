@@ -1,0 +1,2 @@
+rivescript
+python-telegram-bot
